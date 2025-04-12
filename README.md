@@ -1,5 +1,7 @@
 # CS4700Assignment2RPG Documentation
 
+**PLEASE KEEP IN MIND THAT THE VIDEO DEMO AND THE EXE FILE ARE INCLUDED IN THE GIT FILES**
+
 ## Tutorial Series
 Here is the link to the tutorial series that I followed: https://www.youtube.com/watch?v=F5sMq8PrWuM&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu
 
@@ -16,3 +18,5 @@ The traveller must collect items to befriend a strange creature that has entered
 * This was my first time creating a sprite sheet, and the quality when imported ressembled a zombie. Fortunately, by changing the bit quality, I fixed the issue.
 * I had a red ghost that would originally not function correctly. I unfortunately had to scrap that ghost, but I managed to replace it with two more effective ghosts.
 * The game over screen was difficult in the beginning, as it would not appear. Fortunately, it came down to a couple smaller errors that I overlooked. 
+
+Thank you!! :D
